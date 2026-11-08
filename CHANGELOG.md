@@ -1,59 +1,101 @@
 # Changelog
 
+## 1.3.1 — 2026-11-08
+
+### New
+
+- Find people in entries: proposes the people named in entries.
+
+### Improved
+
+- Morning digest: sent only on a day with a task due.
+- Release notes: grouped as New, Improved and Fixed, by impact.
+
+### Fixed
+
+- Notes: scrolling the notes grid no longer closes the app.
+
 ## 1.3.0 — 2026-10-28
 
-- An entry, person or group grows out of the row you tap to open it.
-- Suggest tags in an entry's menu: the on-phone AI proposes, you pick.
-- Settings -> AI model downloads it once (2.6 GB, on Wi-Fi only).
-- A note can be two kinds at once, such as Quote + Idea.
-- Search waits for a pause in your typing, so typing stays smooth.
-- Notes | Groups slides; the entry's pill is centred and larger.
-- An import's preview always counts the people its file names.
-- The reminder check's Battery opens Sutr's page and says what to tap.
+### New
+
+- Suggest tags: on-device AI proposes tags for an entry or a selection.
+- AI model in Settings: a one-time 2.6 GB download over Wi-Fi.
+- Notes, ideas and quotes can be two kinds at once, as Quote + Idea.
+
+### Improved
+
+- Entries, people and groups open from the tapped row and close into it.
+- Search updates after a pause in typing, keeping typing smooth.
+- The entry pill is centred and larger, with more space below it.
+- Notes | Groups slides between its two halves.
+- Reminder check: Battery opens Sutr's battery page and names the taps.
+
+### Fixed
+
+- The import preview always states how many people the file names.
 
 ## 1.2.0 — 2026-10-28
 
-- Text below a --- line is a note to self, kept off Today and cards.
-- Keep imports put links below that line, and idea labels make ideas.
-- A Tags screen: rename, merge, nest tags and see their entries.
-- Tags in the side menu; add or remove a tag on many entries at once.
-- Adding a tag suggests the ones you already use.
-- Tag as is now called Category.
-- Links open with a tap and show a preview card (Settings -> Privacy).
-- Updates: Auto-check daily, weekly or monthly.
+### New
+
+- Tags screen: rename, merge and nest tags, and list their entries.
+- Links open on tap and show preview cards (Settings -> Privacy).
+- Text below a --- line is a private note, kept off Today and cards.
+- Add tag and Remove tag apply to several selected entries at once.
+
+### Improved
+
+- The side menu lists tags; each opens a search for its entries.
+- Adding a tag suggests the tags already in use.
+- Keep import: links go below the --- line; idea labels make ideas.
+- Updates: Auto-check runs daily, weekly or monthly.
+- Tag as is renamed Category.
 - The Notes | Groups switch is centred and no longer shifts.
-- More room around the reminder times in Settings.
+- More space around the reminder times in Settings.
 
 ## 1.1.2 — 2026-10-28
 
-- An import can bring back what an earlier import left in the trash.
+### Fixed
+
+- An import can restore entries an earlier import left in the trash.
 
 ## 1.1.1 — 2026-10-28
 
-- Keep notes labelled Quotes, in quote marks or signed are now quotes.
-- Import Keep again to turn the quotes already brought in into quotes.
+### Fixed
+
+- Keep notes labelled Quotes, in quote marks or signed import as quotes.
+- Importing Keep again turns quotes imported earlier into quotes.
 - Journal rows show only a title or a heading in bold.
 
 ## 1.1.0 — 2026-10-28
 
-- Import Diarium's own backup file (.diary), not only its JSON.
-- An import's preview lists what it leaves out, and why.
-- Notes tab: Keep-style coloured cards, with Groups beside them.
-- Projects are now called Groups.
-- Home's page files itself as a task, a quote or a journal entry.
-- Re-file any entry as journal, note, idea, quote or task.
-- Tag as: turn several entries into notes, ideas or quotes at once.
+### New
+
+- Notes tab: Keep-style coloured cards, with Groups as its other half.
+- Diarium import reads its backup file (.diary) as well as its JSON.
+- Any entry can be re-filed as journal, note, idea, quote or task.
+- Tag as files several selected entries as notes, ideas or quotes.
+- A page written from Home files itself as a task, quote or journal.
+
+### Improved
+
+- Projects are renamed Groups.
+- The import preview lists what an import leaves out, and why.
 - Settings opens Google Takeout, with the steps, for Keep's export.
-- Backup notices live in Settings, with a dot on the menu.
-- A spinner shows while an import, backup or restore runs.
+- Backup notices moved from Today to Settings, with a dot on the menu.
+- A progress indicator shows while an import, backup or restore runs.
+- A digest's Time has its own row, dimmed while the digest is off.
 
 ## 1.0.0 — 2026-10-28
 
-- Journal, tasks, ideas, quotes and notes, written from one sheet.
-- Today: what is due, what you wrote, and On this day.
+### New
+
+- Journal entries, tasks, ideas, quotes and notes, from one sheet.
+- Today: tasks due, the day's journal entries, and On this day.
+- Search across every entry, with saved searches.
 - Projects, repeating tasks, and reminders with quiet hours.
-- Search everything, and save the searches you use often.
-- People: who you write about, month by month.
-- Back up to a folder or to your Google Drive, encrypted.
+- Encrypted backups to a folder or to Google Drive.
 - Import from Diarium and Google Keep.
-- App lock with your fingerprint, face or the phone's PIN.
+- People: the entries that mention each person, month by month.
+- App lock with fingerprint, face or the phone's PIN.
