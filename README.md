@@ -8,14 +8,14 @@ The name comes from the Sanskrit *sutra*, a thread.
 
 ## Download
 
-### **[⬇ Sutr 1.3.1 for Android (29 MB)](https://github.com/Rohith-G1024/Sutr-Releases/releases/download/v1.3.1/Sutr-1.3.1.apk)**
+### **[⬇ Sutr 1.3.1 for Android (29 MB)](https://github.com/Rohith-G1024/Sutr/releases/download/v1.3.1/Sutr-1.3.1.apk)**
 
 Tap it, then open the downloaded file. Android asks whether to allow
 installing from your browser: say yes.
 
 Android 11 or newer, 64-bit ARM.
 
-[All releases](https://github.com/Rohith-G1024/Sutr-Releases/releases) ·
+[All releases](https://github.com/Rohith-G1024/Sutr/releases) ·
 [What's new](CHANGELOG.md)
 
 ## What it does
@@ -44,4 +44,4 @@ The full policy: [Privacy policy](privacy.md). The terms: [Terms of use](terms.m
 Settings → Diagnostics builds a text report about your phone and the app's
 settings and errors. It never contains anything you wrote, and nothing is sent
 automatically: you see it, then share it yourself. Send it, with what you were
-doing, to [Issues](https://github.com/Rohith-G1024/Sutr-Releases/issues).
+doing, to [Issues](https://github.com/Rohith-G1024/Sutr/issues).

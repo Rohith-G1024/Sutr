@@ -92,4 +92,4 @@ date above.
 ## Contact
 
 Questions about this policy:
-[open an issue](https://github.com/Rohith-G1024/Sutr-Releases/issues).
+[open an issue](https://github.com/Rohith-G1024/Sutr/issues).

@@ -26,4 +26,4 @@ it you agree to these terms.
 8. **Changes.** These terms may change. The new version is published on this
    page with a new date above; using the app afterwards means you accept it.
 
-Contact: [open an issue](https://github.com/Rohith-G1024/Sutr-Releases/issues).
+Contact: [open an issue](https://github.com/Rohith-G1024/Sutr/issues).
